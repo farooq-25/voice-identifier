@@ -162,3 +162,4 @@ function calculateConfidence(d1, d2) {
     return Math.min(95, Math.round((diff / total) * 100));
 }
 //
+//
